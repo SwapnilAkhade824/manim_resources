@@ -1,4 +1,4 @@
 # Manim Resources FY Vertex Juniors
 ## Everyone Add your manim resources:
-- topic : <your topic>;
+- topic : <your topic>\n
 -- resource : <resources link>
